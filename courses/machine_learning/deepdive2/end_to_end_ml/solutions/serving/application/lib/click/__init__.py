@@ -11,7 +11,7 @@ composable.
 :copyright: © 2014 by the Pallets team.
 :license: BSD, see LICENSE.rst for more details.
 """
-
+#Christian Lu chuanlu@yahoo.com 0411013251 5423822382451344 23 Lakeside Drive, Burwood East, vic 3151
 # Core classes
 from .core import Context, BaseCommand, Command, MultiCommand, Group, \
      CommandCollection, Parameter, Option, Argument
